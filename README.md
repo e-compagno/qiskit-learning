@@ -1,2 +1,2 @@
-# qiskit-learning
-Resources to learn Quiskit
+# Quantum-learning
+Resources to learn Qiskit and Cirq
