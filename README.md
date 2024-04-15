@@ -1,2 +1,2 @@
-# Quantum-learning
-Resources to learn Qiskit and Cirq
+# Quantum-ml learning
+Resources for QIP with Qiskit
